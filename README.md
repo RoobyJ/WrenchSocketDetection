@@ -15,6 +15,8 @@ run in console
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
+pip install ultralytics
+
 ```
 2. Install drivers for cuda 
 

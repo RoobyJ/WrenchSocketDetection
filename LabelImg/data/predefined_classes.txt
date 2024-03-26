@@ -1,5 +1,3 @@
 socket_6 
 socket_12
 socket_torx
-socket_back
-socket_rusty

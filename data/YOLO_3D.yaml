@@ -2,4 +2,4 @@ train: train/images
 val: test/images
 
 nc: 4
-names: ['socket_6', 'socket_12', 'socket_torx', 'socket_back']
+names: ['socket_6', 'socket_12', 'socket_torx', 'damaged_torx']

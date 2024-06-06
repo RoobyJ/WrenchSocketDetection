@@ -1,1 +1,5 @@
 train_data/
+notatki.md
+.idea
+__pycache__
+test_data
